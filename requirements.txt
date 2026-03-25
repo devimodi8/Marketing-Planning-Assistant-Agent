@@ -1,0 +1,6 @@
+# requirements.txt - Tools we need to install
+crewai
+langchain
+langchain-groq
+streamlit
+python-dotenv
